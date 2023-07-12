@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{78E855DA-1A90-4FA9-09FC-8524537FE284}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MuteMusicButton.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="18" Column="52" />
+      <File FileName="Assets/Scripts/StartMenu.cs" />
+      <File FileName="Assets/Scripts/MenuManager.cs" Line="9" Column="28" />
+      <File FileName="Assets/Scripts/RestartMenu.cs" />
+      <File FileName="Assets/Scripts/LevelManagement.cs" />
+      <File FileName="Assets/RebindControls.cs" Line="3" Column="13" />
+      <File FileName="Assets/Scripts/SoundManagement.cs" Line="21" Column="22" />
+      <File FileName="Assets/PauseMenu.cs" Line="36" Column="36" />
+      <File FileName="Assets/AudioManagement.cs" Line="70" Column="6" />
+      <File FileName="Assets/MuteMusicButton.cs" Line="22" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSC550-Game" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="MuteMusicButton.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e6f531f2-4470-4050-85aa-a55e3b15ca26" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
