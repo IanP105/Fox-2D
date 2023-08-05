@@ -13,7 +13,8 @@ To view and modify the source code, however, you will need to download the game 
 This game was written on version "2021.3.13f1 LTS" of the Unity editor and has been confirmed to work up to at least version "2021.3.19f1 LTS".
 
 When importing the project into Unity editor on a Windows system, there may be the following warning:
-> Build Target MacStandaloneSupport is not supported.  Support for build target platform 'MacStandaloneSupport' is not installed.  Switch to WindowsStandaloneSupport or exit Unity? <
+> Build Target MacStandaloneSupport is not supported.  Support for build target platform 'MacStandaloneSupport' is not installed.  Switch to WindowsStandaloneSupport or exit Unity?
+
 To continue, just click the "SwitchTarget" button.
 
 ## Asset Credits
